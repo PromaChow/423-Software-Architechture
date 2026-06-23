@@ -127,11 +127,6 @@ It determines:
 
 ---
 
-## Notes
 
-* All data is stored in memory and is not persisted
-* The system uses simple conditional logic for decision making
-* Services are tightly interconnected and invoked directly
-* The implementation focuses on demonstrating interaction between components rather than production readiness
 
 ---
