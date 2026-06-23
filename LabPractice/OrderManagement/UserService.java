@@ -10,7 +10,7 @@ public class UserService {
             return cache.get(id);
         }
 
-        // fake DB fetch
+
         User u = new User();
         u.id = id;
         u.name = "User-" + id;
